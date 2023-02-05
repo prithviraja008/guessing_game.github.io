@@ -1,0 +1,29 @@
+h1{
+
+    margin-top: 50px;
+    text-align: center;
+    color: #362FD9;
+    font-family: 'Amatic SC', cursive;
+}
+body{
+    background-color: #85CDFD;
+
+}
+h2{
+    text-align: center;
+    color: #362FD9;
+    font-family: 'Amatic SC',cursive;
+}
+h3{
+    text-align: center;
+    color: #362FD9;
+    font-family: 'Amatic SC',cursive;
+}
+.box{
+    margin-left: 45%;
+}
+.btn{
+    margin-left: 45%;
+
+
+}
